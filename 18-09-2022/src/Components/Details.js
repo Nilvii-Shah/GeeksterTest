@@ -4,11 +4,11 @@ const Details = (props) => {
             
             <table>
                 <tr className="chBac">
-                    <td>Name</td>
-                    <td>Date</td>
-                    <td>Rest</td>
-                    <td>deposite</td>
-                    <td>Status </td>
+                    <td>PROPERTY</td>
+                    <td>DATE</td>
+                    <td>RENT</td>
+                    <td>DEPOSIT</td>
+                    <td>STATUS </td>
                 </tr>
                 <tr>
                 <td>NILVI</td>
